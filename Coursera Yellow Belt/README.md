@@ -22,4 +22,14 @@
 
 - Декомпозиция программы — 2 [decomposition](https://www.coursera.org/learn/c-plus-plus-yellow/programming/KNTkH/diekompozitsiia-proghrammy-2)
 
+- Часть множества [find_greater_element.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/LSMnD/chast-mnozhiestva)
+
+- Разбиение на слова [split_into_words.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/PAhKJ/razbiieniie-na-slova)
+
+- Удаление повторов [remove_duplicates.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/ymAlt/udalieniie-povtorov)
+
+- Перебор перестановок [print_permutation.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/H4uPd/pieriebor-pieriestanovok)
+
+- Демографические показатели [print_stats.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/iFaYj/diemoghrafichieskiie-pokazatieli)
+
 

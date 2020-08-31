@@ -32,4 +32,22 @@
 
 - Демографические показатели [print_stats.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/iFaYj/diemoghrafichieskiie-pokazatieli)
 
+- Сортировка слиянием [merge_sort_div2.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/wlbIg/sortirovka-sliianiiem)
+
+- Поиск ближайшего элемента [find_nearest_element.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/y7l7D/poisk-blizhaishiegho-eliemienta)
+
+- Имена и фамилии — 4 [persons_names_4.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/ye10B/imiena-i-familii-4)
+
+- Группировка строк по префиксу [find_starts_with_char.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/AhGVS/gruppirovka-strok-po-priefiksu)
+
+- Построение арифметического выражения [build_expression.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/SwfxR/postroieniie-arifmietichieskogho-vyrazhieniia)
+
+- Наследование своими руками [inheritance.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/zhahv/nasliedovaniie-svoimi-rukami)
+
+- Отправка уведомлений [notifiers.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/I3Sle/otpravka-uviedomlienii)
+
+- Набор фигур [figures.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/programming/GESke/nabor-fighur)
+
+- Грамотно рефакторим код [refractoring.cpp](https://www.coursera.org/learn/c-plus-plus-yellow/peer/k9eZi/gramotno-riefaktorim-kod)
+
 
